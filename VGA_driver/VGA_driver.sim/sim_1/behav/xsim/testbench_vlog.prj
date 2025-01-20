@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../VGA_driver.srcs/sources_1/new/Hcnt.v" \
+"../../../../VGA_driver.srcs/sources_1/new/TopMod.v" \
+"../../../../VGA_driver.srcs/sources_1/new/Vcnt.v" \
+"../../../../VGA_driver.srcs/sources_1/new/clkdiv.v" \
+"../../../../VGA_driver.srcs/sim_1/new/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

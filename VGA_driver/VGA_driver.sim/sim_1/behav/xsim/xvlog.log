@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/yapheth/VGA_driver/VGA_driver.srcs/sources_1/new/Hcnt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Hcnt
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/yapheth/VGA_driver/VGA_driver.srcs/sources_1/new/TopMod.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TopMod
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/yapheth/VGA_driver/VGA_driver.srcs/sources_1/new/Vcnt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Vcnt
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/yapheth/VGA_driver/VGA_driver.srcs/sources_1/new/clkdiv.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clkdiv
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/yapheth/VGA_driver/VGA_driver.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench

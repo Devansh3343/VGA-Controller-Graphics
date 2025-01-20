@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:55
+/home/yapheth/VGA_driver/VGA_driver.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+/home/yapheth/VGA_driver/VGA_driver.srcs/sim_1/new/testbench.v,1736029244,verilog,,,,testbench,,,,,,,,
+/home/yapheth/VGA_driver/VGA_driver.srcs/sources_1/new/Hcnt.v,1736030845,verilog,,/home/yapheth/VGA_driver/VGA_driver.srcs/sources_1/new/TopMod.v,,Hcnt,,,,,,,,
+/home/yapheth/VGA_driver/VGA_driver.srcs/sources_1/new/TopMod.v,1736030856,verilog,,/home/yapheth/VGA_driver/VGA_driver.srcs/sources_1/new/Vcnt.v,,TopMod,,,,,,,,
+/home/yapheth/VGA_driver/VGA_driver.srcs/sources_1/new/Vcnt.v,1736030507,verilog,,/home/yapheth/VGA_driver/VGA_driver.srcs/sources_1/new/clkdiv.v,,Vcnt,,,,,,,,
+/home/yapheth/VGA_driver/VGA_driver.srcs/sources_1/new/clkdiv.v,1736025861,verilog,,/home/yapheth/VGA_driver/VGA_driver.srcs/sim_1/new/testbench.v,,clkdiv,,,,,,,,
