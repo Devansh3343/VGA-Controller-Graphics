@@ -47,9 +47,11 @@ A memory module was created on the FPGA to store the color codes. These codes we
 
 The project was a success, and custom graphics were displayed on the monitor. The final image, once processed, was shown as expected. 
 
-![Solid Color Display](path-to-your-image.png)
+![Solid Color Display](SolidColourVGA.jpg)
+Display of the Single Colour
 
-![Custom Graphic Display](path-to-your-image.png)
+![Custom Graphic Display](AmdLogoDisplayed.jpg)
+Display of the AMD Logo Graphic
 
 ### 6. Lessons Learned
 
